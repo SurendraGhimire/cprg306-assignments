@@ -20,6 +20,31 @@ export default function page() {
     Week 4
   </Link>
 </li>
+<li>
+  <Link href="./week-5" className="font-bold text-brown-600 hover:text-blue-400 shadow-lg">
+    Week 5
+  </Link>
+  </li> 
+  <li>
+  <Link href="./week-6" className="font-bold text-brown-600 hover:text-blue-400 shadow-lg">
+    Week 6
+  </Link>
+</li>
+<li>
+  <Link href="./week-7" className="font-bold text-brown-600 hover:text-blue-400 shadow-lg">
+    Week 7
+  </Link>
+</li>
+<li>
+  <Link href="./week-8" className="font-bold text-brown-600 hover:text-blue-400 shadow-lg">
+    Week 8
+  </Link>
+</li>
+<li>
+  <Link href="./week-9" className="font-bold text-brown-600 hover:text-blue-400 shadow-lg">
+    Week 9
+  </Link>
+</li>
       </main>
   );
 }
